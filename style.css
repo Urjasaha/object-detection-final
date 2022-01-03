@@ -1,0 +1,33 @@
+.heading {
+    font-size: 40px;
+}
+
+#anchor1 {
+    font-size: 35px;
+    background-color: rgb(230, 157, 157);
+    width: 70%;
+    border-radius: 35px;
+    border: black;
+    border-width: 4px;
+    border-style: dashed;
+}
+
+#anchor2 {
+    font-size: 35px;
+    background-color: rgb(230, 157, 157);
+    width: 70%;
+    border-radius: 35px;
+    border: black;
+    border-width: 4px;
+    border-style: dashed;
+}
+
+#anchor3 {
+    font-size: 35px;
+    background-color: rgb(230, 157, 157);
+    width: 70%;
+    border-radius: 35px;
+    border: black;
+    border-width: 4px;
+    border-style: dashed;
+}
